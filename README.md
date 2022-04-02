@@ -38,7 +38,7 @@ Videogame demo realized for an exam of UI, realized with Java. Graphic part real
 > 🌐[OMORI Italian FanSite](https://github.com/ArmorOfBerserk/OmoriITA_gitHubPage)<br>
 Site for the Italian translation of the well-known videogame "OMORI". It's a single static page, but animated with javascript. Graphic side realized with HTML5 and CSS. The site can be visited at https://omori-traduzione.it/.
 
-> 🤖[Gamendler]()<br>
+> 🤖[Gamendler](https://github.com/ArmorOfBerserk/GamendlerPythonBot)<br>
 >Bot for Telegram created with Python. It uses various libraries and APIs, including IGDB, Firebase and the Telegram API. Bachelor thesis project.
 
 > 🕹️[Donkey Kong AI](https://github.com/danieleavolio/Hero-Road-Java)<br>
