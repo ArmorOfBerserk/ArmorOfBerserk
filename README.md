@@ -1,12 +1,14 @@
 # Howdy! 👋
 
-* 👦 Simone Bilotta, Italian guy, 22 yo.
+* 👦 Simone Bilotta, Italian guy, 24 yo.
 * 🎓 Graduated from the University of Calabria (CS).
 * Main Contacts (Personal website coming soon!):<br>
 [![Linkedin Badge](https://img.shields.io/badge/-SimoneBilotta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simone-bilotta-268603236/)](https://www.linkedin.com/in/simone-bilotta-268603236/) [![Gmail Badge](https://img.shields.io/badge/-sispib1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sispib1@gmail.com)](mailto:sispib1@gmail.com)
 
 ## 💻 Languages and Tools
 * C++
+* C#
+* Unity
 * Python
 * Java
 * Perl
@@ -16,7 +18,6 @@
 * Flask & Jinja2
 
 ## 🌱 I'm learning...
-* Unity
 * Svelte/Svelte-kit
 * Typescript
 * Bot creation
