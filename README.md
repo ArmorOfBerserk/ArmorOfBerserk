@@ -42,7 +42,7 @@ Site for the Italian translation of the well-known videogame "OMORI". It's a sin
 > 🤖[Gamendler](https://github.com/ArmorOfBerserk/GamendlerPythonBot)<br>
 >Bot for Telegram created with Python. It uses various libraries and APIs, including IGDB, Firebase and the Telegram API. Bachelor thesis project.
 
-> 🕹️[Donkey Kong AI](https://github.com/danieleavolio/Hero-Road-Java)<br>
+> 🕹️[Donkey Kong AI](https://github.com/danieleavolio/DonkeyKongAI)<br>
 Demo created for an AI exam. Reproduction of the game Donkey Kong with Java controlled by an AI created with [EmbASP](https://www.mat.unical.it/calimeri/projects/embasp/).
 
 > 🎮[OMORI Italian Translation Installer](https://github.com/ArmorOfBerserk/InstallerModOmori)<br>
