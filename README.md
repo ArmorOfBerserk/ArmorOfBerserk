@@ -21,8 +21,6 @@
 * Flutter
 * Unreal Engine
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ArmorOfBerserk&layout=compact">
-
 ## About me!
 * I love video games, especially the works of From Software (Dark Souls, Elden Ring etc.)
 * Always ready to learn, learn and experiment!
@@ -46,7 +44,3 @@ Demo created for an AI exam. Reproduction of the game Donkey Kong with Java cont
 
 > 🎮[OMORI Italian Translation Installer](https://github.com/ArmorOfBerserk/InstallerModOmori)<br>
 Program in Java, with UI realized with JavaFX to install the italian translation of the game "OMORI".
-
-
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=ArmorOfBerserk&show_icons=true&hide=[%22issues%22])
-
