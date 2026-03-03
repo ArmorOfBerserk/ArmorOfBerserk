@@ -1,6 +1,6 @@
 # Howdy! 👋
 
-* 👦 Simone Bilotta, Italian guy, 24 yo.
+* 👦 Simone Bilotta, Italian guy, 26 yo and software developer.
 * 🎓 Graduated from the University of Calabria (CS).
 * Main Contacts (Personal website coming soon!):<br>
 [![Linkedin Badge](https://img.shields.io/badge/-SimoneBilotta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simone-bilotta-268603236/)](https://www.linkedin.com/in/simone-bilotta-268603236/) [![Gmail Badge](https://img.shields.io/badge/-sispib1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sispib1@gmail.com)](mailto:sispib1@gmail.com)
@@ -14,13 +14,12 @@
 * Perl
 * HTML/CSS
 * Firebase
-* Telegram API
-* Flask & Jinja2
+* React
+* Angular
 
 ## 🌱 I'm learning...
-* Svelte/Svelte-kit
-* Typescript
-* Bot creation
+* Flutter
+* Unreal Engine
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ArmorOfBerserk&layout=compact">
 
